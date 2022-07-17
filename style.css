@@ -1,0 +1,90 @@
+body {
+	height: 2500px;
+}
+
+.pp-circle {
+	border-radius: 50%;
+	width: 250px;
+	border: black solid 4px;
+	box-sizing: border-box;
+	margin-top: 92px;
+	margin-bottom: 30px;
+}
+
+#about {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.jumbotron {
+	height: 515px;
+	background-image: url('img/header13.png');
+	background-image: 100%;
+	background-repeat: no-repeat;
+	background-position: 100, 0;
+	
+}
+
+.texth1 {
+	font-size: 45px;
+}
+
+.mathen {
+	font-size: 24px;
+}
+
+.about hr, 
+hr {
+	border-bottom: black solid 3px;
+	width: 250px;
+	margin: auto;
+	margin-top: 10px;
+}
+
+.about h2 {
+	margin-top: 30px;
+}
+
+.leftabout {
+	margin-left: 235px;
+	margin-top: 24px;
+}
+
+.rightabout {
+	margin-top: 24px;
+}
+
+.border2 {
+	margin-top: 40px;
+	display: block;
+}
+
+.border3 {
+	border: 2px solid black;
+}
+
+#portfolio {
+	background-color: #f8f9fa;
+	width: 100%;
+	padding-top: 60px;
+	display: block;
+	padding-bottom: 60px;
+}
+
+.text {
+	margin-bottom: 34px;
+}
+
+#contact {
+	padding-top: 60px;
+}
+
+.formgroup2 {
+	margin-top: 30px;
+	padding-bottom: 81px;
+}
+
+.fixtopy {
+	position: fixed;
+	z-index: 1;
+}
